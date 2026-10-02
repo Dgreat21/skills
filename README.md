@@ -16,3 +16,7 @@ cp -r skills/skills/unslop-document ~/.claude/skills/
 ```
 
 Скилл подхватится в новой сессии. Его можно вызвать явно (`/unslop-document <файл>`) или просто попросить «причеши слог в <файл>».
+
+## Лицензия
+
+MIT, см. [LICENSE](LICENSE).
